@@ -19,5 +19,4 @@ $(function () {
     $("#loginButton").on("click", () => {
         $("#loginModal").modal("show");
     });
-
 });
